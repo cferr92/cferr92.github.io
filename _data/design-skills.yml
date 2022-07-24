@@ -4,4 +4,8 @@
 
 - name: Adobe Premiere
   percentage: 90
-  color: warning
+  color: info
+
+- name: Adobe Premiere
+  percentage: 90
+  color: light
