@@ -1,0 +1,11 @@
+- name: English
+  percentage: 100
+  color: success
+
+- name: Japanese
+  percentage: 40
+  color: primary
+
+- name: Chinese
+  percentage: 20
+  color: warning

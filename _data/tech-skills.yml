@@ -1,0 +1,11 @@
+- name: Windows
+  percentage: 90
+  color: 
+
+- name: Linux
+  percentage: 70
+  color: danger
+
+- name: Docker
+  percentage: 60
+  color: info

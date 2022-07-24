@@ -1,11 +1,15 @@
 - name: Adobe Photoshop
-  percentage: 95
+  percentage: 90
   color:
 
 - name: Adobe Premiere
-  percentage: 90
+  percentage: 80
   color: info
-
+  
+- name: Vegas Pro
+  percentage: 80
+  color: secondary
+  
 - name: Adobe Audition
-  percentage: 90
+  percentage: 70
   color: primary
