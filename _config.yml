@@ -64,7 +64,7 @@ disqus:
 analytics:
   enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: G-9G2CQ72RNR
+    tracking_id: "G-9G2CQ72RNR"
 
 
 ### Buy me a coffee ###
