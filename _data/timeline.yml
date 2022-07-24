@@ -1,17 +1,20 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Social Media Intern, U.S. Department of Veterans Affairs
+  from: Sep 2018
+  to: May 2020
+  description: - Posted and moderated content on VA social media channels to drive engagement
+               - Increased follower count by 20,000 on Facebook and 10,000 on Twitter
+               - Spearheaded new workflow method for sourcing content for all VA social channels
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Video Game Journalist, Freelance
+  from: Nov 2013
+  to: Present
+  description: - Published 500+ game reviews, articles, and other features in both written and video format
+               - Sites include ScreenRant.com, cublikefoot.com, and others
+               - Collaborate with video game publishers and PR firms to get games featured
+
+- title: Content Creator, YouTube
+  from: Jan 2010
+  to: Present
+  description: - Actively produce game-related videos for two separate gaming channels
+               - Design branding, configure metadata for SEO, and manage monetization
+               - Created an active community of followers on both YouTube and external social platforms
