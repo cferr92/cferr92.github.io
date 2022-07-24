@@ -1,7 +1,7 @@
 ---
 name: cublikefoot
 tools: [Social Media, important]
-image: assets/projects/cublikefoot.jpg
+image: assets\projects\cublikefoot.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
