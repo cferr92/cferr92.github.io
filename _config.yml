@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : Claire Ferrin
-description         : 
+description         : ""
 baseurl             : "/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : cferr92/cferr92.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
