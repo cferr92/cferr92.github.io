@@ -6,6 +6,6 @@
   percentage: 90
   color: info
 
-- name: Adobe Premiere
+- name: Adobe Audition
   percentage: 90
-  color: light
+  color: dark
