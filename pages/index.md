@@ -4,6 +4,9 @@ permalink: /
 ---
 
 {% include landing.html %}
+<p class="text-center">
+{% include elements/button.html link="https://github.com/" text="Resume PDF" %}
+</p>
 # **About Me**
 
 Hi, I am **{{ site.author.name }}** :wave:.<br>
