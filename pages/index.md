@@ -23,6 +23,8 @@ I am currently self-employed and produce video game content for a small network 
 <div class="row">
 {% include about/skills.html title="Languages" source=site.data.languages %}
 {% include about/skills.html title="Tech Skills" source=site.data.tech-skills %}
+</div>
+<div class="row">
 {% include about/skills.html title="Design Skills" source=site.data.design-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>

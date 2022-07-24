@@ -17,7 +17,9 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+  - pages/about.md
   - pages/blog.html
+  - pages/projects.html
 
 ### Author Info ###
 author:
@@ -32,7 +34,7 @@ author:
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : cferr92
-# medium            : your_username
+  medium            : cferr92
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
