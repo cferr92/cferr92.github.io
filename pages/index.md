@@ -7,7 +7,8 @@ permalink: /
 # **About Me**
 
 Hi, I'm **{{ site.author.name }}** :wave:<br>
-I am a multidisciplined analyst currently employed by the National Security Agency (NSA). I recently graduated from Florida International University with a double major in Asian Studies and Sociology, a minor in Social Media and E-Marketing Analytics, over two years of Japanese language study experience, and am now training in Mandarin Chinese.
+
+I am a multidisciplined analyst currently employed by the National Security Agency (NSA), where I have received training in Mandarin Chinese. I recently graduated from Florida International University with a double major in Asian Studies and Sociology, a minor in Social Media and E-Marketing Analytics, and over two years of Japanese language study experience.
 
 I am currently seeking remote positions to further pursue my passion in data analytics, information technology, and digital media, all of which I have professional and personal experience in.
 

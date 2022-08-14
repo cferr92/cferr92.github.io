@@ -6,10 +6,6 @@
   percentage: 80
   color: 
 
-- name: WordPress
+- name: Digital Marketing
   percentage: 70
   color: info
-
-- name: Digital Marketing
-  percentage: 60
-  color: primary
