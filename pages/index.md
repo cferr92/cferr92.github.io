@@ -7,14 +7,14 @@ permalink: /
 # **About Me**
 
 Hi, I'm **{{ site.author.name }}** :wave:<br>
-I am a recent graduate of Florida International University with a double major in Asian Studies and Sociology and minor in Social Media and E-Marketing Analytics. I have over two years of Japanese language study experience and am currently attending classes for Chinese.
+I am a multidisciplined analyst currently employed by the National Security Agency (NSA). I recently graduated from Florida International University with a double major in Asian Studies and Sociology, a minor in Social Media and E-Marketing Analytics, over two years of Japanese language study experience, and am now training in Mandarin Chinese.
 
-Graduating in December 2020, I am now looking to apply my knowledge and skills to the fields of journalism, social research, digital media, and/or foreign relations. I am specifically interested in staff writing/editing, digital media specialist, social media specialist, and analyst positions.
+I am currently seeking remote positions to further pursue my passion in data analytics, information technology, and digital media, all of which I have professional and personal experience in.
 
-I am currently self-employed and produce video game content for a small network of YouTube channels that I have been operating since 2011. In 2013, I began writing about video games as a freelancer and have since published over five hundred reviews, news, and other features for my own website and others. 
+In my free time, I produce video game content for a small network of YouTube channels and have been doing so since 2011. In 2013, I began writing about video games as a freelancer and have since published over five hundred reviews, news, and other features for my own website and others. 
 
 <p class="text-center">{% include elements/button.html link="mailto:cferr92@gmail.com" text="Contact me" block=true %}</p>
-<p class="text-center">{% include elements/button.html link="https://github.com/" text="Resume PDF" block=true %}</p>
+<p class="text-center">{% include elements/button.html link="/assets/Resume.pdf" text="Resume PDF" block=true %}</p>
 
 <div class="row">
 {% include about/timeline.html %}

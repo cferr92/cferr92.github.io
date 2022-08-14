@@ -2,14 +2,10 @@
   percentage: 90
   color:
 
-- name: Adobe Premiere
+- name: Video Editing
   percentage: 80
   color: info
   
-- name: Vegas Pro
-  percentage: 80
-  color: secondary
-  
-- name: Adobe Audition
+- name: Audio Editing
   percentage: 70
   color: primary
