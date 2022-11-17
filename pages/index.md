@@ -8,9 +8,9 @@ permalink: /
 
 Hi, I'm **{{ site.author.name }}** :wave:<br>
 
-I am a multidisciplined analyst currently employed by the National Security Agency (NSA), where I have received training in Mandarin Chinese. I recently graduated from Florida International University with a double major in Asian Studies and Sociology, a minor in Social Media and E-Marketing Analytics, and over two years of Japanese language study experience.
+I am currently seeking positions in analytics, information technology, and digital media, all of which I have professional and personal experience in.
 
-I am currently seeking remote positions to further pursue my passion in data analytics, information technology, and digital media, all of which I have professional and personal experience in.
+I most recently worked as a multidisciplined analyst at the National Security Agency (NSA) and am a recent graduate of Florida International University with a double major in Asian Studies and Sociology, a minor in Social Media and E-Marketing Analytics, over two years of Japanese language study, and professional training in Mandarin Chinese.
 
 In my free time, I produce video game content for a small network of YouTube channels and have been doing so since 2011. In 2013, I began writing about video games as a freelancer and have since published over five hundred reviews, news, and other features for my own website and others. 
 
