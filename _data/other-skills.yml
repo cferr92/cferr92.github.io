@@ -1,11 +1,11 @@
-- name: Social Media Management
+- name: Social Media
   percentage: 90
   color: warning
 
-- name: Content Writing
+- name: Digital Investigations
   percentage: 80
   color: 
 
-- name: Digital Marketing
+- name: Content Writing / Digital Marketing
   percentage: 70
   color: info
